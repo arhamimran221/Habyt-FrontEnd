@@ -1,0 +1,31 @@
+@media screen and (max-width:580px) {
+    .responsiveEverywhere{
+        margin: 0px;
+        font-size: 29px;
+        padding: 0px;
+        width: 92%;
+    }
+    .unitrespo{
+        padding: 2.5rem 2.5rem 2.5rem 0rem;
+    }
+    .respolargest{
+        padding-bottom: 16px;
+    }
+    .respoHow{
+        padding: 40px 12px;
+    }
+    .unlockrespo{
+        font-size: 25px;
+        font-weight: 400;
+    }
+    .adaptablerespo{
+        padding: 4rem 4rem 4rem 1rem;
+        font-size: 28px;
+        font-weight: 500;
+    }
+    .css-14h6lao-MuiFormControl-root-MuiTextField-root,
+    .css-5l5vuy-MuiFormControl-root-MuiTextField-root,
+    .css-1bzd36u-MuiFormControl-root-MuiTextField-root {
+      width: 100%;
+    }
+}

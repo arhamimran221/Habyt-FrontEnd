@@ -1,0 +1,18 @@
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 4.5px 14px !important;
+}
+.css-z3c6am-MuiFormControl-root-MuiTextField-root {
+    border: 1px solid #000;
+    border-radius: 4px;
+}
+
+.MuiFieldBorder fieldset.MuiOutlinedInput-notchedOutline {
+    border: 2px solid #18181b;
+}
+.MuiFieldBorder .Mui-focused fieldset.MuiOutlinedInput-notchedOutline, 
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #18181b !important;
+}
+:where(.css-dev-only-do-not-override-11rb8eg).ant-input-outlined:focus, :where(.css-dev-only-do-not-override-11rb8eg).ant-input-outlined:focus-within {
+    box-shadow: none !important;
+}
